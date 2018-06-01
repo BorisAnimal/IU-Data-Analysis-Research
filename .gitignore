@@ -99,3 +99,5 @@ ENV/
 .mypy_cache/
 dataset/*
 trash/*
+*.pkl
+*.txt
